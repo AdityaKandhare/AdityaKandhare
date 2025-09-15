@@ -1,6 +1,6 @@
 <!-- Profile Banner GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Coding GIF">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="50%" alt="Coding Animation">
 </p>
 
 <h1 align="center">Hi 👋, I'm Aditya Kandhare</h1>
@@ -41,8 +41,8 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [**Diretto Upgrade**](https://github.com/DirectProjectJavaRI) | Migrating 20+ microservices to **Java 21**, Dockerizing, deploying on **EKS** | Java, Maven, Docker, Kubernetes, AWS |
-| [**Kafka Trade Pipeline**](#) | Distributed pipeline processing **16M+ daily trades** | Kafka, AWS S3, Glue, Python |
+| [**Diretto Upgrade**]| Migrating 20+ microservices to **Java 21**, Dockerizing, deploying on **EKS** | Java, Maven, Docker, Kubernetes, AWS |
+| [**Kafka Trade Pipeline**] | Distributed pipeline processing **16M+ daily trades** | Kafka, AWS S3, Glue, Python |
 | [**Anime Sentiment Tracker**](https://github.com/adityakandhare/anime-sentiment-tracker) | Visualized 8K+ weekly data points, built dashboards | Python, Pandas, Matplotlib |
 
 ---
