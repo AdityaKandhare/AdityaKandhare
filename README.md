@@ -7,7 +7,7 @@
 
 <p align="center">
 🎓 MSCS @ Binghamton University | 💻 Software Engineer Apprentice @ <a href="https://mihin.org/">MiHIN</a>  
-🚀 Passionate about Data Engineering, Cloud, and Distributed Systems  
+🚀 Passionate about AI/Software Engineering, Cloud, and Distributed Systems  
 </p>
 
 ---
