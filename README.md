@@ -45,20 +45,7 @@
 | [**Kafka Trade Pipeline**] | Distributed pipeline processing **16M+ daily trades** | Kafka, AWS S3, Glue, Python |
 | [**Anime Sentiment Tracker**](https://github.com/adityakandhare/anime-sentiment-tracker) | Visualized 8K+ weekly data points, built dashboards | Python, Pandas, Matplotlib |
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityakandhare&theme=tokyonight" alt="GitHub Streak Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityakandhare&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakandhare&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>
-
----
 
 ## 🌐 Connect With Me
 <p align="center">
